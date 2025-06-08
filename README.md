@@ -10,5 +10,5 @@ EDS124 projects
 [Module 14: Show What You Know: Write and Explain A Program](https://youtu.be/H-6urorIClY)\
 [Module 17: Show What You Know: Write and Explain A Program](https://youtu.be/NqaNlRBmhH0)\
 [Module 19: Show What You Know: Write and Explain A Program](https://youtu.be/p4prxYw5IZ0)\
-[Module 22: Show What You Know: Write and Explain A Program](https://youtu.be/Nj1rabU88V8)
-
+[Module 22: Show What You Know: Write and Explain A Program](https://youtu.be/Nj1rabU88V8)\
+[Module 24: Show What You Know: Write and Explain A Program](https://youtu.be/Br737R5qKN0)
